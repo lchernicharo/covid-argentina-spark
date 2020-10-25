@@ -1,4 +1,4 @@
-# Algoritmos de classificação sobre base de dados do COVID-19
+# Análise dos dados de COVID-19 argentinos usando Apache Spark
 Projeto para ser executado no Apache Spark e que aplica diversos modelos de classificação na base de dados compartilhada pelo governo da Argentina sobre os casos de COVID-19.
 
 ## Funcionamento
